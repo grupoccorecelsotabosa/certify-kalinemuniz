@@ -1,0 +1,18 @@
+body{
+    background-color: rgb(197, 245, 245);
+    text-align: center;
+    
+}
+
+#container{
+    height: 300px;
+    width: 400px;
+    margin: 100px auto;
+    background: #f7f7f7;
+    box-shadow: 0 3px 5px;
+    border-radius: 20px;
+    
+}
+#display_img{
+    float: 200px;
+}
