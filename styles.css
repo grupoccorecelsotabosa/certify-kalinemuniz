@@ -1,6 +1,10 @@
 body{
-    background-color: rgb(197, 245, 245);
+     background: rgb(197, 245, 245);
+    background: linear-gradient(90deg, rgb(202, 245, 245)0%, rgba(255, 255, 255) 100%);
     text-align: center;
+    height: 100%;
+    display: flex;
+    justify-content: center;
     
 }
 
